@@ -6,6 +6,7 @@
 
 ### Changed
 - Bump `gl` to v6 and move to Node.js 18 in CI.
+- Drop `fast-xml-parser` dependency in `@vivjs/loaders`
 
 ## 0.13.8
 
